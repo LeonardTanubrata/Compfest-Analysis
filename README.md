@@ -1,6 +1,4 @@
-# Compfest-Analysis
-
-## Simple EDA and Slicing for Data Compfest
+# Compfest-Analysis (Simple EDA and Slicing for Data Compfest)
 
 ### CASE
 As a team member of Compfest, you are assigned to oversee the digital activity of @compfest account on social media. Compfest is currently organizing an 'Academy & Competition' event where participants can register with following conditions: 
